@@ -1,2 +1,2 @@
-# ilp-lista03
-Template da lista de exercícios 03: estruturas de repetição
+# ilp-lista04
+Template da lista de exercícios 04: listas (vetores e matrizes)
